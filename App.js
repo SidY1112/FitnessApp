@@ -183,7 +183,7 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: 'white',
     alignItems: 'center',
-    paddingTop: 20, // adjust spacing from top
+    paddingTop: 70, // adjust spacing from top
   },
 
   addBtn: {
